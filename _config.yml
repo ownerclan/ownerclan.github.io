@@ -28,6 +28,7 @@ url: "https://ownerclan.github.io" # the base hostname & protocol for your site,
 github_username:  ownerclan
 
 header_text: 반갑습니다
+header_feature_image: assets/img/notebook_and_coffee.jpg
 
 # PAGINATION
 paginate: 5
@@ -36,7 +37,6 @@ paginate_path: "blog/page:num"
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
-# color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Build settings
 remote_theme: sylhare/Type-on-Strap 
