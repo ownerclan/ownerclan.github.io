@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ownerclan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ownerclan
 
-header_text: 반갑습니다
+header_text: " "
 header_feature_image: assets/img/notebook_and_coffee.jpg
 
 # PAGINATION
